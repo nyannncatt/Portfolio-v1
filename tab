@@ -1,0 +1,3 @@
+function open() {
+    var url = "nynn"
+    window.open(url, '_blank', 'noopener,noreferrer');
